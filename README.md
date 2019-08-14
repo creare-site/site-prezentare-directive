@@ -4,7 +4,7 @@ Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 <br />
 
-![site dimension](https://raw.githubusercontent.com/creare-site/static/master/produse/site-prezentare-directive.jpg)
+![site dimension](https://raw.githubusercontent.com/creare-site/static/master/produse/creare-site-directive-intro.gif)
 
 <br />
 
